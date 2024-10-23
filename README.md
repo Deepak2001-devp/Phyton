@@ -8,3 +8,9 @@ tuple
 dictionary
 set
 
+
+
+reference links:
+copy-deepcopy:
+    https://www.geeksforgeeks.org/copy-python-deep-copy-shallow-copy/  
+
